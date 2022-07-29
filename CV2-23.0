@@ -1,0 +1,12 @@
+{
+  "magisk": {
+    "version": "STRATOSPHERE x PERFORMANCE",
+    "versionCode": "23000",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/app-release.apk",
+    "note": "https://raw.githubusercontent.com/CRANKV2/Android-Root-Modul-Community/main/23000.md"
+  },
+  "stub": {
+    "versionCode": "69",
+    "link": "https://cdn.jsdelivr.net/gh/topjohnwu/magisk-files@23.0/stub-release.apk"
+  }
+}
